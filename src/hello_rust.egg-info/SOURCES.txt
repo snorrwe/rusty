@@ -1,0 +1,7 @@
+src/hello_rust.egg-info/PKG-INFO
+src/hello_rust.egg-info/SOURCES.txt
+src/hello_rust.egg-info/dependency_links.txt
+src/hello_rust.egg-info/not-zip-safe
+src/hello_rust.egg-info/top_level.txt
+src/hello_rusty/__init__.py
+src/hello_rusty/run.py

@@ -1,0 +1,4 @@
+.ropeproject
+env
+*.pyd
+target
